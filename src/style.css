@@ -16,6 +16,7 @@ h1, h2, h3 {
     margin-top: 0;
 }
 
+
 /* --------------------------------------------------
    HEADER
 -------------------------------------------------- */
@@ -72,6 +73,7 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 30px;
+    line-height: 1.6;
 }
 
 /* 3 kolonner */
