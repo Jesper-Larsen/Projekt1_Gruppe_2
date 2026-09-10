@@ -149,6 +149,10 @@ img {
     border-radius: 6px;
 }
 
+.box img{
+    width: 300px;
+    height: 300px;
+
 /* KNAPPER */
 button {
     padding: 10px 18px;
@@ -190,4 +194,5 @@ footer input[type="email"] {
     border-radius: 6px;
     border: 1px solid #aac7ff;
     margin-top: 10px;
+}
 }
