@@ -146,10 +146,11 @@ section {
 .startside_billeder {
     width: 400px;
     height: 250px;
-    object-fit: cover;
+    object-fit: contain;
     max-width: 100%;
     border-radius: 6px;
 }
+
 img {
     max-width: 100%;
     border-radius: 6px;
