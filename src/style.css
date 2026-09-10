@@ -142,7 +142,6 @@ section {
     background: #004999;
 }
 
-
 /* BILLEDER */
 .startside_billeder {
     width: 400px;
@@ -156,9 +155,10 @@ img {
     border-radius: 6px;
 }
 
-.box img{
+.box img {
     width: 300px;
     height: 300px;
+}
 
 /* KNAPPER */
 button {
@@ -201,5 +201,4 @@ footer input[type="email"] {
     border-radius: 6px;
     border: 1px solid #aac7ff;
     margin-top: 10px;
-}
 }
